@@ -1,0 +1,12 @@
+
+###### ###### HDBSCAN blobs distance et nombre de points fixés ###### ######
+
+Temps d'execution HDBSCAN - 2dc4 = 0.009190
+Estimated number of clusters: 4
+Estimated number of noise points: 84
+
+###### ###### HDBSCAN blobs distance et nombre de points fixés ###### ######
+
+Temps d'execution HDBSCAN - smile2 = 0.052594
+Estimated number of clusters: 4
+Estimated number of noise points: 0

@@ -1,0 +1,198 @@
+
+###### ###### Agglomeratif Clustering d32 nombre clusters fixé ###### ######
+
+
+###### ###### Agglomeratif Clustering n2 nombre clusters fixé ###### ######
+
+Temps d'execution Agglomeratif single- n2 [5] [single] = 0.155999
+Coefficient de Silhouette = 0.436744
+Coefficient de Davies = 0.318365
+Temps d'execution Agglomeratif average- n2 [5] [average] = 0.790531
+Coefficient de Silhouette = 0.427401
+Coefficient de Davies = 0.726390
+Temps d'execution Agglomeratif complete- n2 [5] [complete] = 0.700707
+Coefficient de Silhouette = 0.281870
+Coefficient de Davies = 1.049445
+Temps d'execution Agglomeratif ward- n2 [5] [ward] = 0.823430
+Coefficient de Silhouette = 0.431649
+Coefficient de Davies = 0.809186
+
+###### ###### Agglomeratif Clustering [n2] [single] ###### ######
+
+Temps d'execution Agglomeratif single- n2 [2] [single] = 0.195000
+Coefficient de Silhouette = 0.559709
+Coefficient de Davies = 0.315243
+Temps d'execution Agglomeratif single- n2 [3] [single] = 0.185245
+Coefficient de Silhouette = 0.472686
+Coefficient de Davies = 0.317116
+Temps d'execution Agglomeratif single- n2 [4] [single] = 0.202216
+Coefficient de Silhouette = 0.436713
+Coefficient de Davies = 0.322926
+Temps d'execution Agglomeratif single- n2 [5] [single] = 0.224319
+Coefficient de Silhouette = 0.436744
+Coefficient de Davies = 0.318365
+Temps d'execution Agglomeratif single- n2 [6] [single] = 0.193095
+Coefficient de Silhouette = 0.310168
+Coefficient de Davies = 0.349117
+Temps d'execution Agglomeratif single- n2 [7] [single] = 0.174038
+Coefficient de Silhouette = 0.210003
+Coefficient de Davies = 0.369403
+Temps d'execution Agglomeratif single- n2 [8] [single] = 0.199002
+Coefficient de Silhouette = 0.197809
+Coefficient de Davies = 0.388997
+Temps d'execution Agglomeratif single- n2 [9] [single] = 0.168566
+Coefficient de Silhouette = 0.192786
+Coefficient de Davies = 0.377909
+
+###### ###### Agglomeratif Clustering [n2] [average] ###### ######
+
+Temps d'execution Agglomeratif average- n2 [2] [average] = 0.745988
+Coefficient de Silhouette = 0.596790
+Coefficient de Davies = 0.431890
+Temps d'execution Agglomeratif average- n2 [3] [average] = 0.738302
+Coefficient de Silhouette = 0.472247
+Coefficient de Davies = 0.749917
+Temps d'execution Agglomeratif average- n2 [4] [average] = 0.716121
+Coefficient de Silhouette = 0.430805
+Coefficient de Davies = 0.713383
+Temps d'execution Agglomeratif average- n2 [5] [average] = 0.730663
+Coefficient de Silhouette = 0.427401
+Coefficient de Davies = 0.726390
+Temps d'execution Agglomeratif average- n2 [6] [average] = 0.796012
+Coefficient de Silhouette = 0.407261
+Coefficient de Davies = 0.673450
+Temps d'execution Agglomeratif average- n2 [7] [average] = 0.775616
+Coefficient de Silhouette = 0.387364
+Coefficient de Davies = 0.616077
+Temps d'execution Agglomeratif average- n2 [8] [average] = 0.749274
+Coefficient de Silhouette = 0.367333
+Coefficient de Davies = 0.588997
+Temps d'execution Agglomeratif average- n2 [9] [average] = 0.717094
+Coefficient de Silhouette = 0.348532
+Coefficient de Davies = 0.595215
+
+###### ###### Agglomeratif Clustering [n2] [complete] ###### ######
+
+
+###### ###### Agglomeratif Clustering n2 nombre clusters fixé ###### ######
+
+Temps d'execution Agglomeratif single- n2 [5] [single] = 0.178425
+Coefficient de Silhouette = 0.436744
+Coefficient de Davies = 0.318365
+Temps d'execution Agglomeratif average- n2 [5] [average] = 0.653536
+Coefficient de Silhouette = 0.427401
+Coefficient de Davies = 0.726390
+Temps d'execution Agglomeratif complete- n2 [5] [complete] = 0.656474
+Coefficient de Silhouette = 0.281870
+Coefficient de Davies = 1.049445
+Temps d'execution Agglomeratif ward- n2 [5] [ward] = 0.797314
+Coefficient de Silhouette = 0.431649
+Coefficient de Davies = 0.809186
+
+###### ###### Agglomeratif Clustering [n2] [single] ###### ######
+
+Temps d'execution Agglomeratif single- n2 [2] [single] = 0.167086
+Coefficient de Silhouette = 0.559709
+Coefficient de Davies = 0.315243
+Temps d'execution Agglomeratif single- n2 [3] [single] = 0.210867
+Coefficient de Silhouette = 0.472686
+Coefficient de Davies = 0.317116
+Temps d'execution Agglomeratif single- n2 [4] [single] = 0.208416
+Coefficient de Silhouette = 0.436713
+Coefficient de Davies = 0.322926
+Temps d'execution Agglomeratif single- n2 [5] [single] = 0.181042
+Coefficient de Silhouette = 0.436744
+Coefficient de Davies = 0.318365
+Temps d'execution Agglomeratif single- n2 [6] [single] = 0.218249
+Coefficient de Silhouette = 0.310168
+Coefficient de Davies = 0.349117
+Temps d'execution Agglomeratif single- n2 [7] [single] = 0.192976
+Coefficient de Silhouette = 0.210003
+Coefficient de Davies = 0.369403
+Temps d'execution Agglomeratif single- n2 [8] [single] = 0.175388
+Coefficient de Silhouette = 0.197809
+Coefficient de Davies = 0.388997
+Temps d'execution Agglomeratif single- n2 [9] [single] = 0.165995
+Coefficient de Silhouette = 0.192786
+Coefficient de Davies = 0.377909
+
+###### ###### Agglomeratif Clustering [n2] [average] ###### ######
+
+Temps d'execution Agglomeratif average- n2 [2] [average] = 0.669740
+Coefficient de Silhouette = 0.596790
+Coefficient de Davies = 0.431890
+Temps d'execution Agglomeratif average- n2 [3] [average] = 0.747616
+Coefficient de Silhouette = 0.472247
+Coefficient de Davies = 0.749917
+Temps d'execution Agglomeratif average- n2 [4] [average] = 0.677673
+Coefficient de Silhouette = 0.430805
+Coefficient de Davies = 0.713383
+Temps d'execution Agglomeratif average- n2 [5] [average] = 0.735599
+Coefficient de Silhouette = 0.427401
+Coefficient de Davies = 0.726390
+Temps d'execution Agglomeratif average- n2 [6] [average] = 0.772343
+Coefficient de Silhouette = 0.407261
+Coefficient de Davies = 0.673450
+Temps d'execution Agglomeratif average- n2 [7] [average] = 0.742873
+Coefficient de Silhouette = 0.387364
+Coefficient de Davies = 0.616077
+Temps d'execution Agglomeratif average- n2 [8] [average] = 0.713858
+Coefficient de Silhouette = 0.367333
+Coefficient de Davies = 0.588997
+Temps d'execution Agglomeratif average- n2 [9] [average] = 0.684754
+Coefficient de Silhouette = 0.348532
+Coefficient de Davies = 0.595215
+
+###### ###### Agglomeratif Clustering [n2] [complete] ###### ######
+
+Temps d'execution Agglomeratif complete- n2 [2] [complete] = 0.675996
+Coefficient de Silhouette = 0.378174
+Coefficient de Davies = 1.332649
+Temps d'execution Agglomeratif complete- n2 [3] [complete] = 0.659506
+Coefficient de Silhouette = 0.311621
+Coefficient de Davies = 1.139584
+Temps d'execution Agglomeratif complete- n2 [4] [complete] = 0.741078
+Coefficient de Silhouette = 0.267488
+Coefficient de Davies = 1.104003
+Temps d'execution Agglomeratif complete- n2 [5] [complete] = 0.831630
+Coefficient de Silhouette = 0.281870
+Coefficient de Davies = 1.049445
+Temps d'execution Agglomeratif complete- n2 [6] [complete] = 0.782351
+Coefficient de Silhouette = 0.262635
+Coefficient de Davies = 1.050574
+Temps d'execution Agglomeratif complete- n2 [7] [complete] = 0.699752
+Coefficient de Silhouette = 0.236348
+Coefficient de Davies = 0.910091
+Temps d'execution Agglomeratif complete- n2 [8] [complete] = 0.769666
+Coefficient de Silhouette = 0.337244
+Coefficient de Davies = 0.919095
+Temps d'execution Agglomeratif complete- n2 [9] [complete] = 0.756874
+Coefficient de Silhouette = 0.321133
+Coefficient de Davies = 0.996159
+
+###### ###### Agglomeratif Clustering [n2] [ward] ###### ######
+
+Temps d'execution Agglomeratif ward- n2 [2] [ward] = 0.870110
+Coefficient de Silhouette = 0.595847
+Coefficient de Davies = 0.429957
+Temps d'execution Agglomeratif ward- n2 [3] [ward] = 0.952031
+Coefficient de Silhouette = 0.416830
+Coefficient de Davies = 0.908538
+Temps d'execution Agglomeratif ward- n2 [4] [ward] = 0.946484
+Coefficient de Silhouette = 0.460890
+Coefficient de Davies = 0.752420
+Temps d'execution Agglomeratif ward- n2 [5] [ward] = 0.858024
+Coefficient de Silhouette = 0.431649
+Coefficient de Davies = 0.809186
+Temps d'execution Agglomeratif ward- n2 [6] [ward] = 0.912697
+Coefficient de Silhouette = 0.468932
+Coefficient de Davies = 0.771035
+Temps d'execution Agglomeratif ward- n2 [7] [ward] = 0.888128
+Coefficient de Silhouette = 0.495856
+Coefficient de Davies = 0.778403
+Temps d'execution Agglomeratif ward- n2 [8] [ward] = 0.916996
+Coefficient de Silhouette = 0.498996
+Coefficient de Davies = 0.807402
+Temps d'execution Agglomeratif ward- n2 [9] [ward] = 0.834725
+Coefficient de Silhouette = 0.526461
+Coefficient de Davies = 0.782023

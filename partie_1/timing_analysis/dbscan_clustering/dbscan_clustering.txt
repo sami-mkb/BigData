@@ -1,0 +1,18 @@
+
+###### ###### DBSCAN 2d-4c-no4 distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - 2dc4 - dt[5] pts[0.5] = 0.019830
+Estimated number of clusters: 1
+Estimated number of noise points: 0
+
+###### ###### DBSCAN blobs distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - blobs - dt[0.35] pts[14] = 0.002495
+Estimated number of clusters: 3
+Estimated number of noise points: 53
+
+###### ###### DBSCAN smile2 distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - smile2 - dt[5] pts[0.5] = 0.021603
+Estimated number of clusters: 1
+Estimated number of noise points: 0

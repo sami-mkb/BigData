@@ -1,0 +1,24 @@
+
+###### ###### DBSCAN d32 distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - d32 - dt[0.5] pts[14] = 0.022993
+Estimated number of clusters: 16
+Estimated number of noise points: 77
+
+###### ###### DBSCAN d64 distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - d64 - dt[0.35] pts[14] = 0.019661
+Estimated number of clusters: 16
+Estimated number of noise points: 228
+
+###### ###### DBSCAN n1 distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - n1 - dt[5] pts[0.5] = 0.072998
+Estimated number of clusters: 1
+Estimated number of noise points: 0
+
+###### ###### DBSCAN n2 distance et nombre de points fixés ###### ######
+
+Temps d'execution DBSCAN - n2 - dt[0.0891] pts[20] = 0.062082
+Estimated number of clusters: 5
+Estimated number of noise points: 2059
